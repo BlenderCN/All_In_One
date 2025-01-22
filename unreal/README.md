@@ -25,7 +25,10 @@
 ####  [unreal的一些技巧](https://github.com/FofightFong/All_In_One/blob/master/unreal/unrealTips.md)
 
 #### [完整实战系列----实践是检验真理的唯一标准](https://github.com/FofightFong/All_In_One/tree/master/unreal/UnrealPracticeSeries)
+
 ###############################################################################################
+
+[UE4 特效与蓝图的应用基础（二）制作一个连招和刀光效果](https://www.bilibili.com/video/BV1E3411673D)
 
 [(水视频系列)(36)_](https://www.bilibili.com/video/BV1n7411J7op)
 
